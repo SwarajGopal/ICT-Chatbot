@@ -15,3 +15,5 @@ Streamlit UI: A web-based UI to interact with Anika.
 Conversation Memory: Keeps track of the conversation context using ConversationBufferMemory.
 
 Custom Prompt Template: Ensures that responses are concise and restricted to relevant ICT Academy information.
+
+![Screenshot 2025-03-06 212557](https://github.com/user-attachments/assets/48b1e9d1-e6bd-4baa-ba30-0799c6366101)
